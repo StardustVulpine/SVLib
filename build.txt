@@ -1,0 +1,3 @@
+displayName = SVLib
+author = Stardust Vulpine
+version = 0.1
