@@ -11,17 +11,12 @@ namespace SVLib
 {
     public class SVLib : Mod
     {
-        
-    }
-
-    public class PlayerUtils : SVLib
-    {
         /// <summary>
         /// Method to check if player is standing on solid ground or not
         /// </summary>
         /// <param name="player"></param>
         /// <returns>True if is on ground or false if not</returns>
-        public static bool IsOnGround(Player player)
+        public static bool IsPlayerOnGround(Player player)
         {
             // Get the tile directly below the player's feet
             int tileX = (int)(player.position.X + player.width / 2) / 16; // Horizontal center of player
