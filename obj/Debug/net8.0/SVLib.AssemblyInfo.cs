@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SVLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52472464b7eea7b84ae215a9f9ef365f5524d43e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SVLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SVLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
